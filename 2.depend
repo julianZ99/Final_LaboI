@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1656001723 source:c:\users\julian\downloads\2jumb-oproject\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656008909 source:c:\users\martin\desktop\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656027974 source:c:\users\capec\onedrive\escritorio\2jumb-oproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656163652 source:c:\users\martin\desktop\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656371572 source:c:\users\martin\desktop\facultad\programacion 1\tp final\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1656371572 source:c:\users\julian\desktop\jumb-o v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
